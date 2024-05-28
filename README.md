@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **Mumtozbekov/mumtozbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--![webstyle's github stats](https://github-readme-stats.vercel.app/api?username=mumtozbekov&show_icons=true&theme=tokyonight)-->
+[webstyle's github stats](https://github-readme-stats.vercel.app/api?username=mumtozbekov&show_icons=true&theme=tokyonight)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumtozbekov&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumtozbekov&layout=compact)
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+-->
 
